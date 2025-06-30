@@ -10,7 +10,7 @@ This project analyzes car sales data from 2000 to 2024 for multiple car brands, 
     <h3 align="center">Toyota Sales and Prediction</h3> 
       <img src="output/toyota_sales_and_prediction.png" />
     </td><td>
-    <h2 align="center">Ford Sales and Prediction</h3> 
+    <h3 align="center">Ford Sales and Prediction</h3> 
       <img src="output/ford_sales_and_prediction.png" />
 </td></tr></table>
 
