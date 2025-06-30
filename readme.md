@@ -63,8 +63,8 @@ This project analyzes car sales data from 2000 to 2024 for multiple car brands, 
 
 ```bash
 .
-├── cars_2000_2024.csv 
-├── data_generation.ipynb 
+├── data_generation.ipynb
+├── cars_2000_2024.csv  
 ├── Insight.ipynb
 ├── output/                           
 ```
