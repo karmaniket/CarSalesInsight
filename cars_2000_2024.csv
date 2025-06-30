@@ -1,0 +1,433 @@
+Year,Car brand,Number of Cars sold
+2000,toyota,40563
+2000,bmw,28433
+2000,honda,43184
+2000,ford,82596
+2000,nissan,57383
+2000,chevrolet,31073
+2000,volkswagen,26065
+2000,mercedes-benz,29424
+2000,audi,96568
+2000,hyundai,45571
+2000,porsche,41586
+2000,aston martin,16203
+2000,lexus,62610
+2000,jaguar,41373
+2000,alpha romeo,59695
+2000,maserati,40561
+2000,lamborghini,74981
+2000,koenigsegg,66090
+2001,toyota,56732
+2001,bmw,53281
+2001,honda,20262
+2001,ford,59091
+2001,nissan,83289
+2001,chevrolet,36309
+2001,volkswagen,68041
+2001,mercedes-benz,63115
+2001,audi,46483
+2001,hyundai,63411
+2001,porsche,83520
+2001,aston martin,39417
+2001,lexus,94774
+2001,jaguar,93744
+2001,alpha romeo,33968
+2001,maserati,48057
+2001,lamborghini,28114
+2001,koenigsegg,85603
+2002,toyota,11252
+2002,bmw,69310
+2002,honda,26700
+2002,ford,11761
+2002,nissan,7299
+2002,chevrolet,76082
+2002,volkswagen,9184
+2002,mercedes-benz,3869
+2002,audi,91072
+2002,hyundai,48984
+2002,porsche,52200
+2002,aston martin,30888
+2002,lexus,77834
+2002,jaguar,34125
+2002,alpha romeo,62046
+2002,maserati,13256
+2002,lamborghini,69299
+2002,koenigsegg,19363
+2003,toyota,29889
+2003,bmw,41577
+2003,honda,85894
+2003,ford,22401
+2003,nissan,98366
+2003,chevrolet,42682
+2003,volkswagen,6394
+2003,mercedes-benz,50944
+2003,audi,57425
+2003,hyundai,28264
+2003,porsche,60905
+2003,aston martin,76122
+2003,lexus,94857
+2003,jaguar,90926
+2003,alpha romeo,78801
+2003,maserati,59411
+2003,lamborghini,80595
+2003,koenigsegg,17403
+2004,toyota,17078
+2004,bmw,15826
+2004,honda,23821
+2004,ford,86429
+2004,nissan,81904
+2004,chevrolet,74892
+2004,volkswagen,93896
+2004,mercedes-benz,99517
+2004,audi,68361
+2004,hyundai,95115
+2004,porsche,45220
+2004,aston martin,12419
+2004,lexus,70188
+2004,jaguar,58450
+2004,alpha romeo,21594
+2004,maserati,65128
+2004,lamborghini,9786
+2004,koenigsegg,36262
+2005,toyota,35530
+2005,bmw,53392
+2005,honda,16603
+2005,ford,59054
+2005,nissan,74310
+2005,chevrolet,13043
+2005,volkswagen,30748
+2005,mercedes-benz,9924
+2005,audi,87910
+2005,hyundai,18259
+2005,porsche,76836
+2005,aston martin,60053
+2005,lexus,68661
+2005,jaguar,92926
+2005,alpha romeo,69891
+2005,maserati,12130
+2005,lamborghini,38639
+2005,koenigsegg,91832
+2006,toyota,37271
+2006,bmw,38900
+2006,honda,90571
+2006,ford,86391
+2006,nissan,43450
+2006,chevrolet,42469
+2006,volkswagen,40898
+2006,mercedes-benz,3877
+2006,audi,60259
+2006,hyundai,11927
+2006,porsche,60419
+2006,aston martin,7530
+2006,lexus,39756
+2006,jaguar,75400
+2006,alpha romeo,16347
+2006,maserati,67426
+2006,lamborghini,58126
+2006,koenigsegg,1779
+2007,toyota,99523
+2007,bmw,44096
+2007,honda,73519
+2007,ford,75628
+2007,nissan,66695
+2007,chevrolet,1512
+2007,volkswagen,26395
+2007,mercedes-benz,97250
+2007,audi,74784
+2007,hyundai,59458
+2007,porsche,53308
+2007,aston martin,59200
+2007,lexus,63550
+2007,jaguar,34815
+2007,alpha romeo,70466
+2007,maserati,7020
+2007,lamborghini,89067
+2007,koenigsegg,25779
+2008,toyota,69462
+2008,bmw,34853
+2008,honda,48886
+2008,ford,51765
+2008,nissan,94176
+2008,chevrolet,56652
+2008,volkswagen,55917
+2008,mercedes-benz,19811
+2008,audi,73233
+2008,hyundai,96204
+2008,porsche,64504
+2008,aston martin,8401
+2008,lexus,79178
+2008,jaguar,35250
+2008,alpha romeo,36481
+2008,maserati,18469
+2008,lamborghini,23802
+2008,koenigsegg,41793
+2009,toyota,40839
+2009,bmw,6637
+2009,honda,12104
+2009,ford,26797
+2009,nissan,9240
+2009,chevrolet,29267
+2009,volkswagen,53646
+2009,mercedes-benz,54631
+2009,audi,42962
+2009,hyundai,5491
+2009,porsche,28833
+2009,aston martin,59855
+2009,lexus,54971
+2009,jaguar,34276
+2009,alpha romeo,6744
+2009,maserati,55156
+2009,lamborghini,53762
+2009,koenigsegg,40328
+2010,toyota,12471
+2010,bmw,52817
+2010,honda,42482
+2010,ford,19611
+2010,nissan,59401
+2010,chevrolet,31460
+2010,volkswagen,52844
+2010,mercedes-benz,28613
+2010,audi,12762
+2010,hyundai,43793
+2010,porsche,5059
+2010,aston martin,79238
+2010,lexus,23397
+2010,jaguar,13051
+2010,alpha romeo,84157
+2010,maserati,38207
+2010,lamborghini,73410
+2010,koenigsegg,38686
+2011,toyota,43484
+2011,bmw,61109
+2011,honda,9875
+2011,ford,5991
+2011,nissan,76858
+2011,chevrolet,77240
+2011,volkswagen,15547
+2011,mercedes-benz,82967
+2011,audi,31166
+2011,hyundai,50776
+2011,porsche,29455
+2011,aston martin,14356
+2011,lexus,98340
+2011,jaguar,59624
+2011,alpha romeo,37487
+2011,maserati,39825
+2011,lamborghini,2453
+2011,koenigsegg,22364
+2012,toyota,89331
+2012,bmw,16459
+2012,honda,8347
+2012,ford,47420
+2012,nissan,47699
+2012,chevrolet,67170
+2012,volkswagen,15137
+2012,mercedes-benz,39937
+2012,audi,79390
+2012,hyundai,92110
+2012,porsche,24367
+2012,aston martin,48527
+2012,lexus,82411
+2012,jaguar,53778
+2012,alpha romeo,28749
+2012,maserati,63075
+2012,lamborghini,28450
+2012,koenigsegg,47656
+2013,toyota,58957
+2013,bmw,13292
+2013,honda,23380
+2013,ford,41452
+2013,nissan,27107
+2013,chevrolet,68517
+2013,volkswagen,38835
+2013,mercedes-benz,59740
+2013,audi,16189
+2013,hyundai,71469
+2013,porsche,17669
+2013,aston martin,37023
+2013,lexus,41840
+2013,jaguar,58008
+2013,alpha romeo,16057
+2013,maserati,10230
+2013,lamborghini,66245
+2013,koenigsegg,83338
+2014,toyota,64760
+2014,bmw,72917
+2014,honda,2799
+2014,ford,49177
+2014,nissan,58463
+2014,chevrolet,65834
+2014,volkswagen,40099
+2014,mercedes-benz,56345
+2014,audi,39076
+2014,hyundai,49982
+2014,porsche,98280
+2014,aston martin,23388
+2014,lexus,91016
+2014,jaguar,35589
+2014,alpha romeo,24743
+2014,maserati,23402
+2014,lamborghini,51226
+2014,koenigsegg,93815
+2015,toyota,50859
+2015,bmw,85003
+2015,honda,8193
+2015,ford,28845
+2015,nissan,10805
+2015,chevrolet,61503
+2015,volkswagen,3855
+2015,mercedes-benz,86044
+2015,audi,50197
+2015,hyundai,13342
+2015,porsche,31664
+2015,aston martin,47583
+2015,lexus,72362
+2015,jaguar,84192
+2015,alpha romeo,98502
+2015,maserati,49569
+2015,lamborghini,17006
+2015,koenigsegg,71562
+2016,toyota,77629
+2016,bmw,56234
+2016,honda,80358
+2016,ford,26913
+2016,nissan,21042
+2016,chevrolet,13679
+2016,volkswagen,49719
+2016,mercedes-benz,88142
+2016,audi,9756
+2016,hyundai,46261
+2016,porsche,25542
+2016,aston martin,45676
+2016,lexus,69208
+2016,jaguar,51588
+2016,alpha romeo,27467
+2016,maserati,91864
+2016,lamborghini,64488
+2016,koenigsegg,94157
+2017,toyota,79919
+2017,bmw,49686
+2017,honda,6852
+2017,ford,56578
+2017,nissan,16255
+2017,chevrolet,34085
+2017,volkswagen,81711
+2017,mercedes-benz,28499
+2017,audi,74246
+2017,hyundai,16070
+2017,porsche,32493
+2017,aston martin,90061
+2017,lexus,43910
+2017,jaguar,55192
+2017,alpha romeo,74733
+2017,maserati,75518
+2017,lamborghini,99217
+2017,koenigsegg,2649
+2018,toyota,97007
+2018,bmw,4785
+2018,honda,6587
+2018,ford,59007
+2018,nissan,81905
+2018,chevrolet,2381
+2018,volkswagen,39058
+2018,mercedes-benz,95191
+2018,audi,18215
+2018,hyundai,35461
+2018,porsche,26233
+2018,aston martin,26540
+2018,lexus,49933
+2018,jaguar,11360
+2018,alpha romeo,97657
+2018,maserati,80872
+2018,lamborghini,8847
+2018,koenigsegg,2562
+2019,toyota,71841
+2019,bmw,70546
+2019,honda,54297
+2019,ford,78183
+2019,nissan,7693
+2019,chevrolet,62705
+2019,volkswagen,71005
+2019,mercedes-benz,18281
+2019,audi,68874
+2019,hyundai,97752
+2019,porsche,60684
+2019,aston martin,74506
+2019,lexus,30460
+2019,jaguar,66898
+2019,alpha romeo,59074
+2019,maserati,35301
+2019,lamborghini,49222
+2019,koenigsegg,71152
+2020,toyota,74804
+2020,bmw,8794
+2020,honda,38131
+2020,ford,44377
+2020,nissan,24593
+2020,chevrolet,65061
+2020,volkswagen,79467
+2020,mercedes-benz,38944
+2020,audi,23136
+2020,hyundai,33225
+2020,porsche,78218
+2020,aston martin,2418
+2020,lexus,41082
+2020,jaguar,67542
+2020,alpha romeo,20996
+2020,maserati,42736
+2020,lamborghini,37166
+2020,koenigsegg,37638
+2021,toyota,92247
+2021,bmw,4389
+2021,honda,7526
+2021,ford,15605
+2021,nissan,28378
+2021,chevrolet,11257
+2021,volkswagen,44484
+2021,mercedes-benz,22020
+2021,audi,15170
+2021,hyundai,1137
+2021,porsche,56338
+2021,aston martin,75698
+2021,lexus,91021
+2021,jaguar,36602
+2021,alpha romeo,91476
+2021,maserati,35093
+2021,lamborghini,25487
+2021,koenigsegg,79075
+2022,toyota,4930
+2022,bmw,8624
+2022,honda,89857
+2022,ford,67836
+2022,nissan,94906
+2022,chevrolet,50470
+2022,volkswagen,13111
+2022,mercedes-benz,67927
+2022,audi,89447
+2022,hyundai,94450
+2022,porsche,72547
+2022,aston martin,9067
+2022,lexus,10491
+2022,jaguar,50509
+2022,alpha romeo,92685
+2022,maserati,2528
+2022,lamborghini,15553
+2022,koenigsegg,11990
+2023,toyota,72070
+2023,bmw,20951
+2023,honda,71789
+2023,ford,84420
+2023,nissan,3473
+2023,chevrolet,55108
+2023,volkswagen,32125
+2023,mercedes-benz,22318
+2023,audi,98826
+2023,hyundai,73896
+2023,porsche,9284
+2023,aston martin,37690
+2023,lexus,82579
+2023,jaguar,43634
+2023,alpha romeo,83095
+2023,maserati,99326
+2023,lamborghini,22650
+2023,koenigsegg,57931
