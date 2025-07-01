@@ -102,5 +102,3 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 - To analyze a different brand, call `plot_sales('brand_name')` in `Insight.ipynb`.
 - To add more brands or years, modify `data_generation.ipynb` and regenerate the CSV.
-
----
