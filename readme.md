@@ -34,20 +34,20 @@ This project analyzes car sales data from 2000 to 2024 for multiple car brands, 
 
 ### 2. Data Generation
 
-- Generates synthetic car sales data for each brand and year.
-- Defines car brands and years.
-- Randomly generates sales numbers.
-- Saves the data to `cars_2000_2024.csv`.
+- Generates synthetic car sales data for each brand and year
+- Defines car brands and years
+- Randomly generates sales numbers
+- Saves the data to `cars_2000_2024.csv`
 
 ### 3. Insight
 
-- Loads the dataset, performs analysis, fits linear regression models, predicts 2025 sales, and visualizes results.
+- Loads the dataset, performs analysis, fits linear regression models, predicts 2025 sales, and visualizes results
 - Defines `plot_sales(car_brand)` to:
-    - Filter data for the selected brand.
-    - Fit a linear regression model (`sklearn.linear_model.LinearRegression`).
-    - Predict sales for 2025.
-    - Plot actual vs. predicted sales and save the plot to `output/`.
-    - Print model metrics: intercept, coefficient, R² score, RMSE, and 2025 prediction.
+    - Filter data for the selected brand
+    - Fit a linear regression model (`sklearn.linear_model.LinearRegression`)
+    - Predict sales for 2025
+    - Plot actual vs. predicted sales and save the plot to `output/`
+    - Print model metrics: intercept, coefficient, R² score, RMSE, and 2025 prediction
 
 ### 4. Output
 
@@ -89,8 +89,8 @@ Open [Insight.ipynb](Insight.ipynb) and run all cells to see data analysis, mode
 
 ### 3. Customization
 
-- To analyze a different brand, call `plot_sales('brand_name')` in `Insight.ipynb`.
-- To add more brands or years, modify `data_generation.ipynb` and regenerate the CSV.
+- To analyze a different brand, call `plot_sales('brand_name')` in `Insight.ipynb`
+- To add more brands or years, modify `data_generation.ipynb` and regenerate the CSV
 
 ```python
     plot_sales('toyota')
